@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://vinaykodnani.github.io/sitemap.xml
